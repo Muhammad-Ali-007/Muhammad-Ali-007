@@ -25,10 +25,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,python,tensorflow,opencv,cpp,kotlin,mysql,sklearn,matlab,androidstudio,&perline=7)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ali-007&show_icons=true&locale=en&layout=compact" alt="muhammad-ali-007" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ali-007&show_icons=true&locale=en&layout=compact&theme=dark" alt="muhammad-ali-007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-ali-007&show_icons=true&locale=en" alt="muhammad-ali-007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-ali-007&show_icons=true&locale=en&theme=dark" alt="muhammad-ali-007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ali-007&" alt="muhammad-ali-007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ali-007&theme=dark" alt="muhammad-ali-007" /></p>
+
 
 
